@@ -187,3 +187,9 @@
 - Place: Lagos, Nigeria
 - Bio: Fullstack Developer
 - Github: [zheeno](https://github.com/zheeno)
+
+#### Name: Priyanka Chhabra
+
+- Place: India
+- Bio: Student
+- Github: [Priyanka Chhabra](https://github.com/pcpriyankapc)
