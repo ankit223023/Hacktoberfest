@@ -187,3 +187,9 @@
 - Place: Lagos, Nigeria
 - Bio: Fullstack Developer
 - Github: [zheeno](https://github.com/zheeno)
+
+#### Name: Shobhit Yadav
+
+- Place: India
+- Bio: Student
+- Github: https://github.com/shobhityadav99
