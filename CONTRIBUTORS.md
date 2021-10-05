@@ -176,3 +176,9 @@
 - Bio: Student
 - Github: [souravpanigrahi](https://github.com/souravpanigrahi)
 
+#### Name: Jatin Upreti
+
+- Place: India
+- Bio: Student
+- Github: [Jatin Upreti](https://github.com/jatin-upreti)
+
