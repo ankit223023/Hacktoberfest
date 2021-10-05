@@ -182,3 +182,8 @@
 - Bio: Student
 - Github: [Jatin Upreti](https://github.com/jatin-upreti)
 
+#### Name: Efezino Ukpowe
+
+- Place: Lagos, Nigeria
+- Bio: Fullstack Developer
+- Github: [zheeno](https://github.com/zheeno)
