@@ -187,3 +187,9 @@
 - Place: Lagos, Nigeria
 - Bio: Fullstack Developer
 - Github: [zheeno](https://github.com/zheeno)
+
+#### Name: Spardha Varshney
+
+- Place: Bareilly, Uttar Pradesh, India
+- Bio: System Engineer Trainee in Infosys
+- Github: [Spardha-hash](https://github.com/Spardha-hash)
