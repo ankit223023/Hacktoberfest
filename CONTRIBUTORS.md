@@ -193,3 +193,9 @@
 -Place: India
 -Bio: Student
 -Github: [NishchayBhutani](https://github.com/NishchayBhutani)
+
+#### Name: Yash Biyani
+
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Student, Programmer
+- GitHub: [Yash Biyani](https://github.com/biyaniyash23)
