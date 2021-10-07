@@ -158,13 +158,13 @@
 
 - Place: Wisconsin , USA
 
-- Bio: Chef / studying to be a web developer 
+- Bio: Chef / studying to be a web developer
 - Github: [T3ter](https://github.com/T3ter)
 
 #### Name: Dinindu Chamikara
 
 - Place: Sri Lanka
-- Bio: Undergraduate Student 
+- Bio: Undergraduate Student
 - Github: [Dinindu Chamikara](https://github.com/DininduChamikara)
 
 - Bio: Chef / studying to be a web developer
@@ -187,6 +187,12 @@
 - Place: Lagos, Nigeria
 - Bio: Fullstack Developer
 - Github: [zheeno](https://github.com/zheeno)
+
+#### Name: Shehroz Irfan
+
+- Place: Lahore, Pakistan
+- Bio: Associate Software Engineer(ROR Developer)
+- Github: [Shehroz Irfan](https://github.com/ShehrozIrfan)
 
 #### Name: Spardha Varshney
 
