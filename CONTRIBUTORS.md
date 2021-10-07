@@ -193,8 +193,12 @@
  -Bio:Fullstack Developer
  -GitHub:[siddharth](https://github.com/Siddharth0481)
 
+#### Name: Shobhit Yadav
+- Place: India
+- Bio: Student
+- Github: https://github.com/shobhityadav99
+=======
 #### Name: Nishchay Bhutani
-
 -Place: India
 -Bio: Student
 -Github: [NishchayBhutani](https://github.com/NishchayBhutani)
