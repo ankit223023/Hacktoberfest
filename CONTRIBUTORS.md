@@ -187,6 +187,11 @@
 - Place: Lagos, Nigeria
 - Bio: Fullstack Developer
 - Github: [zheeno](https://github.com/zheeno)
+ #### Name: Siddharth
+ 
+ -place:karnal
+ -Bio:Fullstack Developer
+ -GitHub:[siddharth](https://github.com/Siddharth0481)
 
 #### Name: Nishchay Bhutani
 
