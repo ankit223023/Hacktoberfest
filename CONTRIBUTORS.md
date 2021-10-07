@@ -235,3 +235,16 @@
 - Place: India
 - Bio: Student
 - GitHub: (https://github.com/RoyalTechie)
+=======
+
+#### Name: Yash Biyani
+
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: Student, Programmer
+- GitHub: [Yash Biyani](https://github.com/biyaniyash23)
+=======
+#### Name: Ashan Tharaka
+
+-Place: Wennappuwa,Noth-Western,Sri Lanka
+-Bio: Student
+-Github: [Ashan Tharaka](https://github.com/ashan-tharaka)
