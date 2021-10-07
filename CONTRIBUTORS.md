@@ -189,7 +189,11 @@
 - Github: [zheeno](https://github.com/zheeno)
 
 #### Name: Shobhit Yadav
-
 - Place: India
 - Bio: Student
 - Github: https://github.com/shobhityadav99
+=======
+#### Name: Nishchay Bhutani
+-Place: India
+-Bio: Student
+-Github: [NishchayBhutani](https://github.com/NishchayBhutani)
