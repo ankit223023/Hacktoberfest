@@ -224,14 +224,14 @@
 - Bio: Student
 - Github: https://github.com/shobhityadav99
 
-#### Name: Nishchay Bhutani
-
--Place: India
--Bio: Student
--Github: [NishchayBhutani](https://github.com/NishchayBhutani)
-
 #### Name: [Digvijaysing Rajput](https://github.com/RoyalTechie)
 
 - Place: India
 - Bio: Student
 - GitHub: (https://github.com/RoyalTechie)
+
+#### Name: Nishchay Bhutani
+
+-Place: India
+-Bio: Student
+-Github: [NishchayBhutani](https://github.com/NishchayBhutani)
