@@ -193,3 +193,27 @@
 - Place: Bareilly, Uttar Pradesh, India
 - Bio: System Engineer Trainee in Infosys
 - Github: [Spardha-hash](https://github.com/Spardha-hash)
+#### Name: Vikkybliz
+- Place: Nigeria
+- Bio: Student
+- Github: [vikkybliz](https://github.com/vikkybliz)
+
+#### Name: Priyanka Chhabra
+- Place: India
+- Bio: Student
+- Github: [Priyanka Chhabra](https://github.com/pcpriyankapc)
+
+#### Name: Siddharth
+ -place:karnal
+ -Bio:Fullstack Developer
+ -GitHub:[siddharth](https://github.com/Siddharth0481)
+
+#### Name: Shobhit Yadav
+- Place: India
+- Bio: Student
+- Github: https://github.com/shobhityadav99
+
+#### Name: Nishchay Bhutani
+-Place: India
+-Bio: Student
+-Github: [NishchayBhutani](https://github.com/NishchayBhutani)
