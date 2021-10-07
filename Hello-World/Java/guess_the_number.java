@@ -41,7 +41,7 @@ class Game{
 
 }
 
-public class guess_number {
+class guess_number {
     public static void main(String[] args) {
 
         Game g = new Game();
