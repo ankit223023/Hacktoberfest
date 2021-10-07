@@ -187,6 +187,13 @@
 - Place: Lagos, Nigeria
 - Bio: Fullstack Developer
 - Github: [zheeno](https://github.com/zheeno)
+
+#### Name: Vikkybliz
+- Place: Nigeria
+- Bio: Student
+- Github: [vikkybliz](https://github.com/vikkybliz)
+
+=======
 #### Name: Priyanka Chhabra
 - Place: India
 - Bio: Student
