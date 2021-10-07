@@ -78,7 +78,7 @@ Don't forget to include the comments as seen above. Feel free to include additio
 Here is my `hello_world` example: [hello_world_chandra_sekhar_bala.py](https://github.com/Chandra-Sekhar-Bala/Hacktoberfest/blob/main/Hello-World/hello_world_chandr_sekhar_bala.py)
 
 ## Hacktoberfest-accepted label:
-If your hacktoberfest account not shows the successful PR, after it's merged. Ask the mentor to give you a 'hacktoberfest-accepted' label while creating pull request.
+If your hacktoberfest account not shows the successful PR, after it's merged. Ask the mentor to give you a `hacktoberfest-accepted` label while creating pull request.
 
 ## Happy_Hacking!
      Thank you, happy hacking :-)
