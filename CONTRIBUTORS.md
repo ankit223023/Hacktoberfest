@@ -223,3 +223,9 @@
 -Place: India
 -Bio: Student
 -Github: [NishchayBhutani](https://github.com/NishchayBhutani)
+
+#### Name: Ashan Tharaka
+
+-Place: Wennappuwa,Noth-Western,Sri Lanka
+-Bio: Student
+-Github: [Ashan Tharaka](https://github.com/ashan-tharaka)
