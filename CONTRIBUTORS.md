@@ -158,13 +158,13 @@
 
 - Place: Wisconsin , USA
 
-- Bio: Chef / studying to be a web developer 
+- Bio: Chef / studying to be a web developer
 - Github: [T3ter](https://github.com/T3ter)
 
 #### Name: Dinindu Chamikara
 
 - Place: Sri Lanka
-- Bio: Undergraduate Student 
+- Bio: Undergraduate Student
 - Github: [Dinindu Chamikara](https://github.com/DininduChamikara)
 
 - Bio: Chef / studying to be a web developer
@@ -188,14 +188,51 @@
 - Bio: Fullstack Developer
 - Github: [zheeno](https://github.com/zheeno)
 
-#### Name: Nishchay Bhutani
+#### Name: Shehroz Irfan
 
+- Place: Lahore, Pakistan
+- Bio: Associate Software Engineer(ROR Developer)
+- Github: [Shehroz Irfan](https://github.com/ShehrozIrfan)
+
+#### Name: Spardha Varshney
+
+- Place: Bareilly, Uttar Pradesh, India
+- Bio: System Engineer Trainee in Infosys
+- Github: [Spardha-hash](https://github.com/Spardha-hash)
+#### Name: Vikkybliz
+- Place: Nigeria
+- Bio: Student
+- Github: [vikkybliz](https://github.com/vikkybliz)
+
+#### Name: Priyanka Chhabra
+- Place: India
+- Bio: Student
+- Github: [Priyanka Chhabra](https://github.com/pcpriyankapc)
+
+#### Name: Siddharth
+ -place:karnal
+ -Bio:Fullstack Developer
+ -GitHub:[siddharth](https://github.com/Siddharth0481)
+
+#### Name: Shobhit Yadav
+- Place: India
+- Bio: Student
+- Github: https://github.com/shobhityadav99
+
+#### Name: Nishchay Bhutani
 -Place: India
 -Bio: Student
 -Github: [NishchayBhutani](https://github.com/NishchayBhutani)
+
 
 #### Name: Yash Biyani
 
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: Student, Programmer
 - GitHub: [Yash Biyani](https://github.com/biyaniyash23)
+=======
+#### Name: Ashan Tharaka
+
+-Place: Wennappuwa,Noth-Western,Sri Lanka
+-Bio: Student
+-Github: [Ashan Tharaka](https://github.com/ashan-tharaka)
