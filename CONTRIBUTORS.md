@@ -272,3 +272,8 @@
 - Place: Kolkata, West Bengal, India
 - Bio: Software Enthusiast, Programmer
 - GitHub: [Rishav-12](https://github.com/Rishav-12)
+
+#### Name: AAKASH JHA
+- Place: Bangalore, Karnataka
+- Bio: Student, Coder, Batman
+- GitHub: [aakash-hacks](https://github.com/aakash-hacks)
