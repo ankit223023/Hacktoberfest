@@ -225,10 +225,18 @@
 - Github: https://github.com/shobhityadav99
 
 #### Name: Nishchay Bhutani
-
 - Place: India
 - Bio: Student
 - Github: [NishchayBhutani](https://github.com/NishchayBhutani)
+=======
+-Place: India
+-Bio: Student
+-Github: [NishchayBhutani](https://github.com/NishchayBhutani)
+
+#### Name: Jessica Golling
+-Place: Massachusetts, USA
+-Bio: Student
+-Github: [jgolling4697](https://github.com/jgolling4697) 
 
 #### Name: [Digvijaysing Rajput](https://github.com/RoyalTechie)
 
@@ -260,3 +268,7 @@
 - Bio: Student
 - Github: [akash435](https://github.com/akash435)
 
+#### Name: RISHAV MITRA
+- Place: Kolkata, West Bengal, India
+- Bio: Software Enthusiast, Programmer
+- GitHub: [Rishav-12](https://github.com/Rishav-12)
