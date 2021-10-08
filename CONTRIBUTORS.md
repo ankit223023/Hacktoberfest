@@ -214,9 +214,9 @@
 
 #### Name: Siddharth
 
--place:karnal
--Bio:Fullstack Developer
--GitHub:[siddharth](https://github.com/Siddharth0481)
+- place:karnal
+- Bio:Fullstack Developer
+- GitHub:[siddharth](https://github.com/Siddharth0481)
 
 #### Name: Shobhit Yadav
 
@@ -225,7 +225,10 @@
 - Github: https://github.com/shobhityadav99
 
 #### Name: Nishchay Bhutani
-
+- Place: India
+- Bio: Student
+- Github: [NishchayBhutani](https://github.com/NishchayBhutani)
+=======
 -Place: India
 -Bio: Student
 -Github: [NishchayBhutani](https://github.com/NishchayBhutani)
@@ -234,32 +237,36 @@
 -Place: Massachusetts, USA
 -Bio: Student
 -Github: [jgolling4697](https://github.com/jgolling4697) 
-=======
 
 #### Name: [Digvijaysing Rajput](https://github.com/RoyalTechie)
 
 - Place: India
 - Bio: Student
 - GitHub: (https://github.com/RoyalTechie)
-=======
 
 #### Name: Yash Biyani
 
 - Place: Varanasi, Uttar Pradesh, India
 - Bio: Student, Programmer
 - GitHub: [Yash Biyani](https://github.com/biyaniyash23)
-=======
+
 #### Name: Ashan Tharaka
 
--Place: Wennappuwa,Noth-Western,Sri Lanka
--Bio: Student
--Github: [Ashan Tharaka](https://github.com/ashan-tharaka)
-=======
+- Place: Wennappuwa,Noth-Western,Sri Lanka
+- Bio: Student
+- Github: [Ashan Tharaka](https://github.com/ashan-tharaka)
+
 #### Name: Rizky Alviandra
 
--Place: Indonesia
--Bio: Cloud Enthuasiast
--Github: [RizkyAlviandra](https://github.com/rizkyalviandra)
+- Place: Indonesia
+- Bio: Cloud Enthuasiast
+- Github: [RizkyAlviandra](https://github.com/rizkyalviandra)
+
+#### Name: Akash Rajak
+
+- Place: India
+- Bio: Student
+- Github: [akash435](https://github.com/akash435)
 
 #### Name: RISHAV MITRA
 - Place: Kolkata, West Bengal, India
