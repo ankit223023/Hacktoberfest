@@ -256,3 +256,7 @@
 -Bio: Cloud Enthuasiast
 -Github: [RizkyAlviandra](https://github.com/rizkyalviandra)
 
+#### Name: RISHAV MITRA
+- Place: Kolkata, West Bengal, India
+- Bio: Software Enthusiast, Programmer
+- GitHub: [Rishav-12](https://github.com/Rishav-12)
