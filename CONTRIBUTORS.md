@@ -230,6 +230,11 @@
 -Bio: Student
 -Github: [NishchayBhutani](https://github.com/NishchayBhutani)
 
+#### Name: Jessica Golling
+-Place: Massachusetts, USA
+-Bio: Student
+-Github: [jgolling4697](https://github.com/jgolling4697) 
+=======
 
 #### Name: [Digvijaysing Rajput](https://github.com/RoyalTechie)
 
