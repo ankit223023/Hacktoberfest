@@ -232,18 +232,16 @@
 - Github: https://github.com/shobhityadav99
 
 #### Name: Nishchay Bhutani
+
 - Place: India
 - Bio: Student
-- Github: [NishchayBhutani](https://github.com/NishchayBhutani)
-=======
--Place: India
--Bio: Student
--Github: [NishchayBhutani](https://github.com/NishchayBhutani)
+- # Github: [NishchayBhutani](https://github.com/NishchayBhutani)
 
 #### Name: Jessica Golling
+
 -Place: Massachusetts, USA
 -Bio: Student
--Github: [jgolling4697](https://github.com/jgolling4697) 
+-Github: [jgolling4697](https://github.com/jgolling4697)
 
 #### Name: [Digvijaysing Rajput](https://github.com/RoyalTechie)
 
@@ -276,9 +274,16 @@
 - Github: [akash435](https://github.com/akash435)
 
 #### Name: RISHAV MITRA
+
 - Place: Kolkata, West Bengal, India
 - Bio: Software Enthusiast, Programmer
 - GitHub: [Rishav-12](https://github.com/Rishav-12)
+
+#### Name: SANCHIT BAJAJ
+
+- Place: Delhi, India
+- Bio: JavaScript Developer, Tech Enthusiast
+- GitHub: [Sanchitbajaj02](https://github.com/Sanchitbajaj02)
 
 #### Name: Varun Vishwakarma
 - Place: Ara, Bihar
@@ -294,3 +299,4 @@
 - Place: Bangalore, Karnataka
 - Bio: Student, Coder, Batman
 - GitHub: [aakash-hacks](https://github.com/aakash-hacks)
+
