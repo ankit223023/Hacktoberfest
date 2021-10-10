@@ -1,3 +1,10 @@
+#### Name: Yusuf Adefolahan
+
+- Place: Lagos, Nigeria
+- Bio: Developer
+- GitHub: [Yusuf Adefolahan](https://github.com/sanxy)
+
+
 #### Name: Junaid Shah
 
 - Place: Srinagar, J&K, India
