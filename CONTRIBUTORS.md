@@ -272,3 +272,8 @@
 - Place: Kolkata, West Bengal, India
 - Bio: Software Enthusiast, Programmer
 - GitHub: [Rishav-12](https://github.com/Rishav-12)
+
+#### Name: RIDWAN RIZQI
+- Place: East Java Indonesia
+- Bio: Programmer
+- GitHub: [RidwanRizqi](https://github.com/RidwanRizqi)
