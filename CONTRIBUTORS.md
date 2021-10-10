@@ -1,3 +1,10 @@
+#### Name: Yusuf Adefolahan
+
+- Place: Lagos, Nigeria
+- Bio: Developer
+- GitHub: [Yusuf Adefolahan](https://github.com/sanxy)
+
+
 #### Name: Junaid Shah
 
 - Place: Srinagar, J&K, India
@@ -229,9 +236,6 @@
 - Place: India
 - Bio: Student
 - # Github: [NishchayBhutani](https://github.com/NishchayBhutani)
-  -Place: India
-  -Bio: Student
-  -Github: [NishchayBhutani](https://github.com/NishchayBhutani)
 
 #### Name: Jessica Golling
 
@@ -280,3 +284,19 @@
 - Place: Delhi, India
 - Bio: JavaScript Developer, Tech Enthusiast
 - GitHub: [Sanchitbajaj02](https://github.com/Sanchitbajaj02)
+
+#### Name: Varun Vishwakarma
+- Place: Ara, Bihar
+- Bio: Student, Java Developer
+- Github: [VarunVishwakarma117](https://github.com/VarunVishwakarma117)
+
+#### Name: RIDWAN RIZQI
+- Place: East Java Indonesia
+- Bio: Programmer
+- GitHub: [RidwanRizqi](https://github.com/RidwanRizqi)
+
+#### Name: AAKASH JHA
+- Place: Bangalore, Karnataka
+- Bio: Student, Coder, Batman
+- GitHub: [aakash-hacks](https://github.com/aakash-hacks)
+
