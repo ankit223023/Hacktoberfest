@@ -277,3 +277,8 @@
 - Place: East Java Indonesia
 - Bio: Programmer
 - GitHub: [RidwanRizqi](https://github.com/RidwanRizqi)
+
+#### Name: AAKASH JHA
+- Place: Bangalore, Karnataka
+- Bio: Student, Coder, Batman
+- GitHub: [aakash-hacks](https://github.com/aakash-hacks)
