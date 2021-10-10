@@ -277,3 +277,13 @@
 - Place: Ara, Bihar
 - Bio: Student, Java Developer
 - Github: [VarunVishwakarma117](https://github.com/VarunVishwakarma117)
+
+#### Name: RIDWAN RIZQI
+- Place: East Java Indonesia
+- Bio: Programmer
+- GitHub: [RidwanRizqi](https://github.com/RidwanRizqi)
+
+#### Name: AAKASH JHA
+- Place: Bangalore, Karnataka
+- Bio: Student, Coder, Batman
+- GitHub: [aakash-hacks](https://github.com/aakash-hacks)
