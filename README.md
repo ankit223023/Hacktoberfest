@@ -1,4 +1,4 @@
-# This Project has been Exclued from Hacktoberfest - oO not make PRs
+# This Project has been Exclued from Hacktoberfest - Do not make PRs
 
 # 🐱‍👤 HacktoberFest Starter Project 2021 👽
 
